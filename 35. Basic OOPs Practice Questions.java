@@ -88,6 +88,27 @@ public class cwh_39_ch8ps {
         System.out.println(sq.perimeter());
          */
 
+         
+         // Problem 4
+         class rectangle{
+    int length;
+    int breadth;
+    public int area(){
+        return length*breadth;
+    }
+    public int perimeter(){
+        return 2*(length+breadth);
+    }
+}
+
+public static void main(String[] args) {
+rectangle rec= new rectangle();
+        rec.length=11;
+        rec.breadth=14;
+        System.out.println(rec.area());
+        System.out.println(rec.perimeter());
+     
+         
         // Problem 5
         Tommy player1 = new Tommy();
         player1.fire();
