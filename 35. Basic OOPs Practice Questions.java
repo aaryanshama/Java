@@ -10,8 +10,10 @@
 // 3. Create a class Square with a method to initialize its side, calculating area, perimeter etc.
 
 // 4. Create a class Rectangle & problem 3.
-Create a class TommyVecetti for Rockstar Games capable of hitting (print hitting…), running, firing, etc.
-Repeat problem 4 for a circle.
+
+// 5. Create a class TommyVecetti for Rockstar Games capable of hitting (print hitting…), running, firing, etc.
+
+// 6. Repeat problem 4 for a circle.
 
 package com.company;
 
