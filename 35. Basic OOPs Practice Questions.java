@@ -6,7 +6,8 @@
      //  setName (method changing name)
 
 // 2. Create a class cellphone with methods to print “ringing…”, “vibrating…”, etc.
-Create a class Square with a method to initialize its side, calculating area, perimeter etc.
+
+// 3. Create a class Square with a method to initialize its side, calculating area, perimeter etc.
 Create a class Rectangle & problem 3.
 Create a class TommyVecetti for Rockstar Games capable of hitting (print hitting…), running, firing, etc.
 Repeat problem 4 for a circle.
