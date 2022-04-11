@@ -93,6 +93,25 @@ public class cwh_39_ch8ps {
         player1.fire();
         player1.run();
         player1.hit();
+         
+         
+         // Problem 6
+         class circle{
+    int r;
+    public int area(){
+        return (22*r*r)/7;
+    }
+        public int perimeter(){
+        return (2*22*r)/7;
+        }
+    }
+
+public static void main(String[] args) {
+
+        circle circle=new circle();
+        circle.r=12;
+        System.out.println(circle.area());
+        System.out.println(circle.perimeter());
 
 
     }
